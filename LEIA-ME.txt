@@ -1,0 +1,12 @@
+Kit de specs · Módulo 04 · 04/11/2026
+
+Como usar (um integrante por grupo):
+1. GitHub Desktop: Fetch origin e Pull origin.
+2. Copie as pastas "specs" e ".claude" deste kit para a RAIZ do repositório do grupo
+   (Documentos\GitHub\<repositório>). Se a pasta .claude já existir, só acrescente a pasta commands.
+3. Abra ACRESCENTAR-AO-CLAUDE.md, copie o conteúdo para o final do CLAUDE.md e apague o arquivo.
+4. Commit "Adiciona modelos de specs e comandos" e Push origin. Os colegas fazem Pull origin.
+5. No Claude Code, digite / e confira se aparecem /planejar, /executar e /conferir.
+
+Observação: a pasta .claude começa com ponto e pode ficar oculta no Explorador do Windows
+(Exibir > Itens ocultos). No VS Code ela aparece normalmente.
